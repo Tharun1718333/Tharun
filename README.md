@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Chakka</h1>
-<h3 align="center">Hustle your way! No shortcuts.</h3>
+<h1 align="center">Hi 👋, I'm Tharun Reddy</h1>
+<h3 align="center">18</h3>
 <img align="right" alt="GIF" src="code.webp" width="500" height="300" />
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiatanyachakka&label=Profile%20views&color=0e75b6&style=flat" alt="chiatanyachakka" /> </p> -->
 
