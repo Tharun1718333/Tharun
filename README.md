@@ -24,7 +24,7 @@
 
 <h3 align="left">My coding handles</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/Ryukendo_18" target="blank"><img align="center" src="https://cdn.codeforces.com/s/38094/images/codeforces-sponsored-by-ton.png" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Ryukendo_18" target="blank"><img align="center" src="https://cdn.codeforces.com/s/38094/images/codeforces-sponsored-by-ton.png" height="30" width="60" /></a>
 <a href="https://www.leetcode.com/cerebus_3r38u5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cerebus_3r38u5" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/CeReBuS_3r38u5" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="30" width="40"/></a>
   <a href="https://codeforces.com/profile/CeReBuS_3r38u5" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="werdun" height="30" width="40" /></a>
