@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Tharun Reddy</h1>
 <h3 align="center">1718333</h3>
-<img align="right" alt="GIF" src="https://github.com/ChiatanyaChakka/ChiatanyaChakka/blob/master/code.webp" width="400" height="400" />
+<img align="right" alt="GIF" src="https://github.com/ChiatanyaChakka/ChiatanyaChakka/blob/master/code.webp" width="600" height="400" />
 
 <h3 align="left">Languages</h3>
 <p align="left">
