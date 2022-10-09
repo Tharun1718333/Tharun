@@ -19,7 +19,7 @@
 <h3 align="left">My coding handles</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/Ryukendo_18" target="blank"><img align="center" src="https://cdn.codeforces.com/s/38094/images/codeforces-sponsored-by-ton.png" height="30" width="80" /></a>
-<a href="https://leetcode.com/f20190190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cerebus_3r38u5" height="30" width="40" /></a>
+<a href="https://leetcode.com/Ryukendo_18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cerebus_3r38u5" height="30" width="40" /></a>
  <a href="https://auth.geeksforgeeks.org/user/reddytharun165" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/geeksforgeeks.svg" height="30" width="40"/></a>
   <a href="https://www.interviewbit.com/profile/f20190190_e76f8cb4f567/daily-activity" target="blank"><img align="center" src="https://assets.interviewbit.com/assets/ibpp/brand-5c6255a15a1b1307a1b8a2bf0bcb149b1ff9513ab2854c7d391b3faf5f33848f.svg.gz" alt="werdun" height="30" width="80" /></a>
  </p>
